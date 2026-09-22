@@ -3,6 +3,12 @@
 A quick, clickable preview of the NADRA HAMRAHI idea. It is **only for seeing how the
 product looks and works**. The real app is planned in Next.js + Supabase + Groq.
 
+##   Live Demo
+
+  **Try the application here:**
+
+  [Nadra Hamrahi] (https://nadra-ahmrahi-20-wd47iuoz5zvrrparhxkq6q.streamlit.app/#ask-about-anything-nadra)
+
 ## Design concept
 
 The look is modelled on nadra.gov.pk itself: a white page, a slim nav bar with a small green
